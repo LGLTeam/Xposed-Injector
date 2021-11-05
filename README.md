@@ -1,5 +1,5 @@
 # Xposed Injector
-Xposed Injector to mod games externally, by Saygus, and project fixed by Spring Musk. 
+Xposed Injector to mod games externally. Made by Saygus, and project fixed by Spring Musk. 
 
 Spring Musk requested me to upload his project because he don't have PC
 
